@@ -1,6 +1,8 @@
 # React sandbox
 
-Uses React, TypeScript, Vite and Vitest. Requires Node.js 22.12 or later.
+Uses React, TypeScript, Vite and Vitest. Use Node.js 24.15 or later within the
+24.x release line (recommended), 22.22.2 or later within 22.x, or Node.js 26+.
+The development container supplies Node.js 24.21.0.
 
 Run `npm ci`, then:
 
